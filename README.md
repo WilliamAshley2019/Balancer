@@ -16,3 +16,7 @@ Just drop the vst3 into your commonfiles/vst3 folder and it should work.
 This plugin is made for windows 11 as I am a windows user it may work in other versions of windows but hasn't been tested in them.
 
 EULA - Enduser assume all risk in using the vst3 or source code. I have tested it and it works for me, use your own due dilligence in using the vst3, it was made in good faith to provide a simple easy to use no BS gain and stereo to mono sum tool.
+
+This is an alpha.  
+
+Issues: Smoothing, so I notice a slight audio distortion when moving the dial, likely due to how precise (or inprecise) the volume change is. So it may be ok for setting gain level but automating gain level is a little noisey still. It is something I'd like to try to fix in the next update of it. 
