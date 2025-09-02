@@ -2,7 +2,7 @@ Balancer VST3 Plugin
 
 Version: 1.0
 License: GPL-3.0
-Website: https://12264447666william.wixsite.com/williamashley
+ 
 
 Balancer is a stereo balancing VST3 plugin designed for mixing and mastering. It allows precise control over channel balance and stereo width, helping producers achieve clean, well-defined mixes.
 
